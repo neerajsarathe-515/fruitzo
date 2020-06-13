@@ -1,0 +1,64 @@
+body{background-color: #777777;}
+
+header {
+	position: fixed;
+	width: 100%;
+	z-index:500;
+
+}
+
+.navbar-toggler {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#menu_button {
+
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 5px;
+	margin-bottom: auto;
+
+}
+
+#home_button{
+	margin-top: 5px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-right: 42%;
+	padding-left: 42%;
+}
+
+#menu_sand{ 
+		
+	 background-image:url(https://images.unsplash.com/photo-1539252554453-80ab65ce3586?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80);
+	 background-size: 100%;
+ }
+
+h1{ 
+	text-align: center;
+	font-family: fantasy;
+	
+ }
+
+table{ 
+
+	font-family: sans; 
+	}
+
+tbody{
+
+	text-color: #ffffff;
+}
+
+#copyr8{
+	background-color:currentColor;
+	background-size: 1px;
+	text-align: center;
+}
+
+#copyr8_font{
+	color: #ffffff; 
+	font-size:10px; 
+
+}
