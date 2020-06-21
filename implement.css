@@ -37,15 +37,18 @@ h2 {
 
 #conti_style { margin-right: 5px; }
 
-p.container {
+
+	p.container {
 	color: #ffffff;
-	font-family:Times New Roman; 
+	font-family:TimesNewRoman; 
 	font-size: 18px;
 	margin: 10px; 
 	width: 60rem;
 }
 
-.column{ margin: 20px; }
+
+
+.column{ margin: 10px; }
 
 .card{ width:18rem; }
 
