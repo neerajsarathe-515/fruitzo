@@ -42,7 +42,8 @@ h2 {
 	color: #ffffff;
 	font-family:TimesNewRoman; 
 	font-size: 18px;
-	margin: 10px; 
+	margin: 10px;
+	-webkit-column-break-inside: avoid; 
 	width: 60rem;
 }
 
